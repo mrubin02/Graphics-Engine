@@ -1,4 +1,9 @@
-Here you will find a 2D Graphics Engine composed entirely in C++. 
-I created the functions to draw polygons, meshes, and blends within the canvas. 
-To adjust the image you would like to be drawn
-To run, enter the following command in the terminal: g++ -Wall maddie_canvas.cpp -o GDrawSomething. 
+hello!!! 
+
+here you will find my 2D graphics engine, coded entirely in C++. 
+
+here are some examples of drawings one can make with this graphics engine: 
+
+![Alt Text](color_quad.png)
+![Alt Text](lion.png)
+
